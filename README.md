@@ -1,5 +1,5 @@
 
-  <img src="images/spam-detection-model.jpeg" alt="Project Pipeline" width="600">
+  <img src="images/spam-detection-model.jpeg" alt="Project Pipeline" width="400">
   <h1>📧 Spam Detection using Multinomial Naive Bayes</h1>
   <p><strong>Author:</strong> Sanskar Gupta</p>
   <p><a href="https://github.com/sanskarpyml/spam-detection-model" target="_blank">🔗 GitHub Repository</a></p>
@@ -12,7 +12,7 @@
   <br>
 
   <h3>🧠 Project Flow</h3>
-  <img src="images/pipeline_diagram.jpeg" alt="Project Pipeline" width="600">
+  <img src="images/pipeline_diagram.jpeg" alt="Project Pipeline" width="400">
   <br><br>
 
   <hr>
@@ -49,13 +49,13 @@
   <p>After preprocessing and training, the model performs with an accuracy of <strong>XX%</strong> on the test dataset.</p>
 
   <h3>Confusion Matrix</h3>
-  <img src="images/confusion_matrix.jpeg" alt="Confusion Matrix" width="600">
+  <img src="images/confusion_matrix.jpeg" alt="Confusion Matrix" width="400">
 
   <h3>Training vs Testing Accuracy</h3>
-  <img src="images/accuracy_chart.jpeg" alt="Model Accuracy Chart" width="600">
+  <img src="images/accuracy_chart.jpeg" alt="Model Accuracy Chart" width="400">
 
   <h3>Class Distribution</h3>
-  <img src="images/spam_vs_ham_chart.jpeg" alt="Spam vs Ham Distribution" width="600">
+  <img src="images/spam_vs_ham_chart.jpeg" alt="Spam vs Ham Distribution" width="400">
 
   <hr>
 
