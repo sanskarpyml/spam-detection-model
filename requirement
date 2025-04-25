@@ -1,0 +1,1 @@
+!pip install numpy pandas seaborn malplotlib scikitl-learn
